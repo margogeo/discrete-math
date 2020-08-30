@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//delets useless non terminals from context free grammar
 import java.util.*;
 import java.io.*;
 import java.lang.Math;

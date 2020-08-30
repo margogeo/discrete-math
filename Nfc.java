@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//transforms context free grammar to chomsky normal form
 import java.util.*;
 import java.io.*;
 import java.lang.Math;

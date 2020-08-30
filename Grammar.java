@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//finds whether word can be deduced from that context free grammar or not
 import java.util.*;
 import java.io.*;
 import java.lang.Math;

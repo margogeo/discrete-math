@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//finds every deducing epsilon-word nonterminal 
 import java.util.*;
 import java.io.*;
 import java.lang.Math;
